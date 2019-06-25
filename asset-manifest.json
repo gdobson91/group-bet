@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/group-bet/static/css/main.621e3f9b.chunk.css",
-    "main.js": "/group-bet/static/js/main.7af1791d.chunk.js",
-    "main.js.map": "/group-bet/static/js/main.7af1791d.chunk.js.map",
+    "main.js": "/group-bet/static/js/main.7732599d.chunk.js",
+    "main.js.map": "/group-bet/static/js/main.7732599d.chunk.js.map",
     "runtime~main.js": "/group-bet/static/js/runtime~main.c5729a50.js",
     "runtime~main.js.map": "/group-bet/static/js/runtime~main.c5729a50.js.map",
     "static/css/2.510409cd.chunk.css": "/group-bet/static/css/2.510409cd.chunk.css",
     "static/js/2.0ef9ac0a.chunk.js": "/group-bet/static/js/2.0ef9ac0a.chunk.js",
     "static/js/2.0ef9ac0a.chunk.js.map": "/group-bet/static/js/2.0ef9ac0a.chunk.js.map",
     "index.html": "/group-bet/index.html",
-    "precache-manifest.25e407ecdeb31a5c1f5bec5144088d29.js": "/group-bet/precache-manifest.25e407ecdeb31a5c1f5bec5144088d29.js",
+    "precache-manifest.9463a653a5fd2d32c13f448da9444b95.js": "/group-bet/precache-manifest.9463a653a5fd2d32c13f448da9444b95.js",
     "service-worker.js": "/group-bet/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/group-bet/static/css/2.510409cd.chunk.css.map",
     "static/css/main.621e3f9b.chunk.css.map": "/group-bet/static/css/main.621e3f9b.chunk.css.map"
