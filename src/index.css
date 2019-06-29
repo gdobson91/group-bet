@@ -16,3 +16,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+main {
+  height: "60px";
+  top: 56px;
+  position: fixed;
+  padding: 0.5rem;
+}
+
+@media (min-width: 769px) {
+  main {
+    left: 15rem;
+  }
+}
