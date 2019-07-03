@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7e660b81cb70a6d4ee39277cac99a1c",
+    "revision": "f6b947431e7767122eebb27fa341a386",
     "url": "/group-bet/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/group-bet/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "5fc9290c32b9a3162e0a",
+    "revision": "8e116d57470a73e8ae05",
     "url": "/group-bet/static/css/main.1f74a67e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/group-bet/static/js/2.9b4b178f.chunk.js"
   },
   {
-    "revision": "5fc9290c32b9a3162e0a",
-    "url": "/group-bet/static/js/main.9b1bcaff.chunk.js"
+    "revision": "8e116d57470a73e8ae05",
+    "url": "/group-bet/static/js/main.3995c63c.chunk.js"
   },
   {
     "revision": "d2413a9b496bb69efd0c",
