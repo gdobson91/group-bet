@@ -5,16 +5,7 @@
   width: 100%;
   background: #521751;
   height: 56px;
-}
-
-.toolbar_logo {
-  margin-left: 1rem;
-}
-
-.toolbar_logo a {
-  color: white;
-  text-decoration: none;
-  font-size: 1.5rem;
+  z-index: 150;
 }
 
 .toolbar_navigation {
@@ -59,8 +50,5 @@
 @media (min-width: 769px) {
   .toolbar-toggle_button {
     display: none;
-  }
-  .toolbar_logo {
-    margin-left: 0;
   }
 }
