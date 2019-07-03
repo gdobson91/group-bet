@@ -16,7 +16,8 @@ class App extends Component {
     const response = await axios.post(
       //REMEMBER TO RUN C:/cors-anywhere-master/ node server CMD before testing
 
-      "https://220.253.88.23:8080/https://api.betfair.com/exchange/betting/rest/v1.0/listEvents/",
+      // "http://220.253.88.23:8080/https://api.betfair.com/exchange/betting/rest/v1.0/listEvents/",
+      "https://api.betfair.com/exchange/betting/rest/v1.0/listEvents/",
       {
         filter: { eventTypeIds: [eventTypeId], marketTypeCodes: ["MATCH_ODDS"] }
       },
